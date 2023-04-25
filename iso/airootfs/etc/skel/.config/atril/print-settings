@@ -1,0 +1,33 @@
+[Print Settings]
+atril-print-setting-page-autorotate=true
+cups-OutputMode=Normal
+default-source=Auto
+atril-print-setting-page-size=false
+duplex=simplex
+media-type=Plain
+cups-job-priority=50
+cups-MediaType=Plain
+cups-number-up=1
+cover-before=none
+atril-print-setting-page-scale=1
+cups-InputSlot=Auto
+print-at-time=
+quality=normal
+cover-after=none
+print-at=now
+printer=Print to File
+cups-Duplex=None
+cups-job-sheets=none,none
+
+output-file-format=pdf
+
+[Page Setup]
+PPDName=A4
+DisplayName=A4
+Width=210
+Height=297
+MarginTop=5.468055555555555
+MarginBottom=5.468055555555555
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

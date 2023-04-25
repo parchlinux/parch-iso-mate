@@ -137,9 +137,66 @@ archlinux-keyring
 openssl-1.1
 openssl
 
-#Desktop
+# Desktop
 
-#systemutils
+## MATE desktop
+caja
+marco
+mate-backgrounds
+mate-control-center
+mate-desktop
+mate-icon-theme
+mate-menus
+mate-notification-daemon
+mate-panel
+mate-polkit
+mate-session-manager
+mate-settings-daemon
+mate-themes
+mate-user-guide
+atril
+caja-image-converter
+caja-open-terminal
+caja-sendto
+caja-share
+caja-wallpaper
+caja-xattr-tags
+engrampa
+eom
+mate-applets
+mate-calc
+mate-icon-theme-faenza
+mate-media
+mate-netbook
+mate-power-manager
+mate-screensaver
+mate-sensors-applet
+mate-system-monitor
+mate-terminal
+mate-user-share
+mate-utils
+mozo
+pluma
+dconf-editor
+xdg-user-dirs
+
+# icon
+papirus-icon-theme
+
+# font
+ttf-liberation
+fontconfig
+
+# from aur
+mate-menu
+mate-tweak
+topmenu-gtk
+vala-panel
+vala-panel-appmenu-common
+vala-panel-appmenu-mate
+papirus-folders
+
+# systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
@@ -147,8 +204,7 @@ neofetch
 keepassxc
 octopi-git
 
-
-#parchlinuxstuff
+# parchlinuxstuff
 calamares
 parchlinux-cala-config
 os-prober
