@@ -7,7 +7,7 @@ base
 base-devel
 bind
 brltty
-broadcom-wl
+#broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
@@ -136,6 +136,12 @@ zsh
 archlinux-keyring
 openssl-1.1
 openssl
+broadcom-wl-dkms
+android-file-transfer
+gvfs-mtp
+gvfs
+ntfs-3g
+udisks2
 
 # Desktop
 
@@ -186,6 +192,10 @@ papirus-icon-theme
 # font
 ttf-liberation
 fontconfig
+ttf-ms-fonts
+# parch edit
+parch-firefox-config
+motrix-bin
 
 # from aur
 mate-menu
@@ -200,7 +210,7 @@ papirus-folders
 btop
 xdg-user-dirs
 packagekit-qt5
-neofetch
+neofetch-git
 keepassxc
 octopi-git
 
