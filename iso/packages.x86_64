@@ -204,7 +204,7 @@ topmenu-gtk
 vala-panel
 vala-panel-appmenu-common
 vala-panel-appmenu-mate
-papirus-folders
+#papirus-folders
 
 # systemutils
 btop
