@@ -80,7 +80,6 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
 openconnect
 openssh
 openvpn
@@ -94,7 +93,6 @@ pv
 python
 python-psutil
 python-systemd
-qemu-guest-agent
 refind
 #reflector
 reiserfsprogs
@@ -142,6 +140,8 @@ gvfs-mtp
 gvfs
 ntfs-3g
 udisks2
+lightdm
+lightdm-gtk-greeter
 
 # Desktop
 
@@ -193,6 +193,7 @@ papirus-icon-theme
 ttf-liberation
 fontconfig
 ttf-ms-fonts
+
 # parch edit
 parch-firefox-config
 motrix-bin
@@ -204,15 +205,12 @@ topmenu-gtk
 vala-panel
 vala-panel-appmenu-common
 vala-panel-appmenu-mate
-#papirus-folders
 
 # systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-keepassxc
-octopi-git
 
 # parchlinuxstuff
 calamares
