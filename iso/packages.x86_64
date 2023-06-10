@@ -142,7 +142,7 @@ ntfs-3g
 udisks2
 lightdm
 lightdm-gtk-greeter
-
+networkmanager
 # Desktop
 
 ## MATE desktop
